@@ -1,2 +1,2 @@
-# ancestree-android
-Open source Android app for genealogy via AncesTree
+# ancestree-android | AncesTree
+Open source Android app for genealogical research
